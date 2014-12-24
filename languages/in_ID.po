@@ -1,0 +1,2649 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Morvi WP v1.0\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: 2014-12-23 03:46:35+0000\n"
+"Last-Translator: admin <mastrayasa@gmail.com>\n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: CSL v1.x\n"
+"X-Poedit-Language: Indonesian\n"
+"X-Poedit-Country: INDONESIA\n"
+"X-Poedit-SourceCharset: utf-8\n"
+"X-Poedit-KeywordsList: __;_e;__ngettext:1,2;_n:1,2;__ngettext_noop:1,2;_n_noop:1,2;_c,_nc:4c,1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;_nx_noop:4c,1,2;\n"
+"X-Poedit-Basepath: ../\n"
+"X-Poedit-Bookmarks: \n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Textdomain-Support: yes"
+
+#: 404.php:16
+#@ dewitech
+msgid "Not found"
+msgstr "Tidak Ditemukan"
+
+#: 404.php:21
+#@ dewitech
+msgid "This is somewhat embarrassing, isn&rsquo;t it?"
+msgstr ""
+
+#: 404.php:22
+#@ dewitech
+msgid "It looks like nothing was found at this location. Maybe try a search?"
+msgstr ""
+
+#: admin/classes/class.options_machine.php:573
+#@ dewitech
+msgid "Last Backup :"
+msgstr "Cadangan Terakhir :"
+
+#: admin/front-end/options.php:4
+#@ dewitech
+msgid "Options Updated"
+msgstr "Pilihan Diperbaharui"
+
+#: admin/front-end/options.php:8
+#: admin/front-end/options.php:68
+#@ dewitech
+msgid "Options Reset"
+msgstr "Pilihan direset"
+
+#: admin/front-end/options.php:12
+#@ dewitech
+msgid "Error!"
+msgstr "Kesalahan!"
+
+#: admin/front-end/options.php:28
+#@ dewitech
+msgid "Warning- This options panel will not work properly without javascript!"
+msgstr "Peringatan - Pilihan ini tidak akan bekerja dengan javascript"
+
+#: admin/front-end/options.php:37
+#@ dewitech
+msgid "Expand"
+msgstr ""
+
+#: admin/front-end/options.php:43
+#: admin/front-end/options.php:67
+#@ dewitech
+msgid "Save All Changes"
+msgstr "Simpan Semua Perubahan"
+
+#: admin/functions/functions.options.php:37
+#@ dewitech
+msgid "Banner"
+msgstr "Iklan"
+
+#: admin/functions/functions.options.php:38
+#@ dewitech
+msgid "Page Content"
+msgstr "Isi halaman"
+
+#: admin/functions/functions.options.php:39
+#@ dewitech
+msgid "News List"
+msgstr "Daftar berita"
+
+#: admin/functions/functions.options.php:40
+#@ dewitech
+msgid "News Slider"
+msgstr "Slide berita"
+
+#: admin/functions/functions.options.php:44
+#@ dewitech
+msgid "Latest Blog Posts"
+msgstr "Blog Terakhir"
+
+#: admin/functions/functions.options.php:115
+#@ dewitech
+msgid "General"
+msgstr "Umum"
+
+#: admin/functions/functions.options.php:117
+#@ dewitech
+msgid "Logo"
+msgstr "Logo"
+
+#: admin/functions/functions.options.php:118
+#@ dewitech
+msgid "Upload your Logo. Or paste the image link."
+msgstr "Upload logo anda, atau tempelkan link gambar"
+
+#: admin/functions/functions.options.php:123
+#@ dewitech
+msgid "Favicon"
+msgstr ""
+
+#: admin/functions/functions.options.php:124
+#@ dewitech
+msgid "Upload a 16px x 16px Png/Gif image that will represent your website's favicon."
+msgstr "Unggah sebuah gambar  16px x 16px Png/Gif yang akan digunakan untuk favicon website anda."
+
+#: admin/functions/functions.options.php:134
+#@ dewitech
+msgid "Scrool to Top Button Options"
+msgstr "Tombol kembali keatas"
+
+#: admin/functions/functions.options.php:174
+#@ dewitech
+msgid "Footer Copyright Text"
+msgstr "Text dibagian bawah halaman"
+
+#: admin/functions/functions.options.php:175
+#@ dewitech
+msgid "Write your own copyright text here. You can use the following shortcodes in your footer text: [copyright] [site-name] [the-year]"
+msgstr ""
+
+#: admin/functions/functions.options.php:190
+#@ dewitech
+msgid "Contact  Map"
+msgstr "Peta kontak"
+
+#: admin/functions/functions.options.php:237
+#@ dewitech
+msgid "Contact Map"
+msgstr "Peta Kontak"
+
+#: admin/functions/functions.options.php:402
+#@ dewitech
+msgid "Basic Styling"
+msgstr "Dasar Gaya"
+
+#: admin/functions/functions.options.php:410
+#@ dewitech
+msgid "Typography"
+msgstr "Tulisan"
+
+#: admin/functions/functions.options.php:417
+#@ dewitech
+msgid "Advanced Settings"
+msgstr "Setting lanjutan"
+
+#: admin/functions/functions.options.php:423
+#@ dewitech
+msgid "Custom CSS"
+msgstr "Perbaharui CSS"
+
+#: admin/functions/functions.options.php:428
+#@ dewitech
+msgid "Quickly add some CSS to your theme by adding it to this block."
+msgstr ""
+
+#: admin/functions/functions.options.php:436
+#@ dewitech
+msgid "Custom Script"
+msgstr ""
+
+#: admin/functions/functions.options.php:441
+#@ dewitech
+msgid "Quickly add some Script to your theme by adding it to this block."
+msgstr ""
+
+#: admin/functions/functions.options.php:455
+#@ dewitech
+msgid "Backup Options"
+msgstr ""
+
+#: admin/functions/functions.options.php:459
+#@ dewitech
+msgid "Backup and Restore Options"
+msgstr ""
+
+#: admin/functions/functions.options.php:463
+#@ dewitech
+msgid "You can use the two buttons below to backup your current options, and then restore it back at a later time. This is useful if you want to experiment on the options but would like to keep the old settings in case you need it back."
+msgstr ""
+
+#: admin/functions/functions.php:5
+#@ dewitech
+msgid "Select a font"
+msgstr ""
+
+#: archive.php:23
+#: category.php:22
+#, php-format
+#@ dewitech
+msgid "Categories : %s"
+msgstr ""
+
+#: archive.php:29
+#, php-format
+#@ dewitech
+msgid "Posts Tag : %s"
+msgstr ""
+
+#: archive.php:36
+#@ dewitech
+msgid "Daily Archives"
+msgstr ""
+
+#: archive.php:40
+#@ dewitech
+msgid "Monthly Archives"
+msgstr ""
+
+#: archive.php:44
+#@ dewitech
+msgid "Yearly Archives"
+msgstr ""
+
+#: comments.php:14
+#: comments.php:36
+#@ dewitech
+msgid "Comment navigation"
+msgstr ""
+
+#: comments.php:15
+#: comments.php:37
+#@ dewitech
+msgid "&larr; Older Comments"
+msgstr ""
+
+#: comments.php:16
+#: comments.php:38
+#@ dewitech
+msgid "Newer Comments &rarr;"
+msgstr ""
+
+#: comments.php:47
+#@ dewitech
+msgid "Comments are closed."
+msgstr ""
+
+#: comments.php:59
+#@ dewitech
+msgid "Your Commment"
+msgstr ""
+
+#: comments.php:60
+#, php-format
+#@ dewitech
+msgid "Leave a Reply to %s"
+msgstr ""
+
+#: comments.php:61
+#@ dewitech
+msgid "Cancel Reply"
+msgstr ""
+
+#: comments.php:62
+#@ dewitech
+msgid "Comment"
+msgstr ""
+
+#: comments.php:64
+#, php-format
+#@ dewitech
+msgid "You must be <a href=\"%s\">logged in</a> to post a comment."
+msgstr ""
+
+#: comments.php:65
+#, php-format
+#@ dewitech
+msgid "Logged in as <a href=\"%1$s\">%2$s</a>. <a href=\"%3$s\" title=\"Log out of this account\">Log out?</a>"
+msgstr ""
+
+#: comments.php:66
+#@ dewitech
+msgid "Email (will not be published)"
+msgstr ""
+
+#: comments.php:69
+#: includes/visualcomposer/dt-ourteam.php:112
+#: includes/visualcomposer/dt-quoteslider.php:98
+#@ dewitech
+msgid "Name"
+msgstr ""
+
+#: comments.php:70
+#: includes/custom-widget/ds-contact.php:45
+#@ dewitech
+msgid "Email"
+msgstr ""
+
+#: comments.php:71
+#@ dewitech
+msgid "Website"
+msgstr ""
+
+#: content-none.php:3
+#@ dewitech
+msgid "Nothing Found"
+msgstr ""
+
+#: content-none.php:7
+#@ dewitech
+msgid "Apologies, but no results were found. Perhaps searching will help find a related post."
+msgstr ""
+
+#: functions.php:43
+#@ dewitech
+msgid "Navigation Menu"
+msgstr ""
+
+#: functions.php:350
+#@ dewitech
+msgid "Primary"
+msgstr ""
+
+#: functions.php:351
+#@ dewitech
+msgid "Footer"
+msgstr ""
+
+#: functions.php:629
+#: includes/visualcomposer/dt-ourteam.php:140
+#@ dewitech
+msgid "Image"
+msgstr ""
+
+#: functions.php:702
+#, php-format
+#@ dewitech
+msgid "%s"
+msgstr ""
+
+#: includes/breadcrumb.php:24
+#@ dewitech
+msgid "Home"
+msgstr ""
+
+#: includes/breadcrumb.php:75
+#: includes/portfolio.php:165
+#, php-format
+#@ dewitech
+msgid "View all posts in %s"
+msgstr ""
+
+#: includes/breadcrumb.php:122
+#: includes/breadcrumb.php:143
+#@ dewitech
+msgid "Blogs"
+msgstr ""
+
+#: includes/custom-widget/ds-accordion.php:14
+#@ dewitech
+msgid "Accordion Widget."
+msgstr ""
+
+#: includes/custom-widget/ds-accordion.php:19
+#@ dewitech
+msgid "DS Accordion"
+msgstr ""
+
+#: includes/custom-widget/ds-accordion.php:27
+#@ dewitech
+msgid "Area of Expertise"
+msgstr ""
+
+#: includes/custom-widget/ds-accordion.php:28
+#: includes/custom-widget/ds-skills.php:30
+#@ dewitech
+msgid "Illustration"
+msgstr ""
+
+#: includes/custom-widget/ds-accordion.php:29
+#: includes/custom-widget/ds-accordion.php:31
+#: includes/custom-widget/ds-accordion.php:33
+#: includes/custom-widget/ds-accordion.php:35
+#@ dewitech
+msgid "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
+msgstr ""
+
+#: includes/custom-widget/ds-accordion.php:30
+#: includes/custom-widget/ds-skills.php:28
+#@ dewitech
+msgid "Web Design"
+msgstr ""
+
+#: includes/custom-widget/ds-accordion.php:32
+#@ dewitech
+msgid "Graphic and Photography"
+msgstr ""
+
+#: includes/custom-widget/ds-accordion.php:34
+#: includes/custom-widget/ds-skills.php:34
+#@ dewitech
+msgid "Video Editing"
+msgstr ""
+
+#: includes/custom-widget/ds-accordion.php:43
+#@ dewitech
+msgid "Widget Title"
+msgstr ""
+
+#: includes/custom-widget/ds-accordion.php:47
+#@ dewitech
+msgid "Title1"
+msgstr ""
+
+#: includes/custom-widget/ds-accordion.php:51
+#@ dewitech
+msgid "Text1"
+msgstr ""
+
+#: includes/custom-widget/ds-accordion.php:55
+#@ dewitech
+msgid "Title2"
+msgstr ""
+
+#: includes/custom-widget/ds-accordion.php:59
+#@ dewitech
+msgid "Text2"
+msgstr ""
+
+#: includes/custom-widget/ds-accordion.php:63
+#@ dewitech
+msgid "Title3"
+msgstr ""
+
+#: includes/custom-widget/ds-accordion.php:67
+#@ dewitech
+msgid "Text3"
+msgstr ""
+
+#: includes/custom-widget/ds-accordion.php:71
+#@ dewitech
+msgid "Title4"
+msgstr ""
+
+#: includes/custom-widget/ds-accordion.php:75
+#@ dewitech
+msgid "Text4"
+msgstr ""
+
+#: includes/custom-widget/ds-contact.php:14
+#@ dewitech
+msgid "Widget with a simple ds_contact information."
+msgstr ""
+
+#: includes/custom-widget/ds-contact.php:19
+#@ dewitech
+msgid "DS Contact"
+msgstr ""
+
+#: includes/custom-widget/ds-contact.php:27
+#@ dewitech
+msgid "Contact"
+msgstr ""
+
+#: includes/custom-widget/ds-contact.php:28
+#@ dewitech
+msgid "Jl Terusan Jakarta no 101, Bandung, Indonesia"
+msgstr ""
+
+#: includes/custom-widget/ds-contact.php:29
+#@ dewitech
+msgid "info@dubstrap.com"
+msgstr ""
+
+#: includes/custom-widget/ds-contact.php:30
+#@ dewitech
+msgid "+628123456789"
+msgstr ""
+
+#: includes/custom-widget/ds-contact.php:37
+#: includes/custom-widget/ds-flickr.php:35
+#: includes/visualcomposer/dt-accordion.php:67
+#: includes/visualcomposer/dt-accordion.php:93
+#: includes/visualcomposer/dt-circlecounter.php:50
+#: includes/visualcomposer/dt-colorbar.php:44
+#: includes/visualcomposer/dt-contactform.php:55
+#: includes/visualcomposer/dt-featurebox-2.php:46
+#: includes/visualcomposer/dt-featurebox-3.php:43
+#: includes/visualcomposer/dt-featurebox-3.php:161
+#: includes/visualcomposer/dt-featurebox.php:44
+#: includes/visualcomposer/dt-line.php:89
+#: includes/visualcomposer/dt-morvi-logos.php:147
+#: includes/visualcomposer/dt-morvi-tag.php:50
+#: includes/visualcomposer/dt-morvi-text-slider.php:151
+#: includes/visualcomposer/dt-pricingtable.php:78
+#: includes/visualcomposer/dt-pricingtable.php:80
+#: includes/visualcomposer/dt-titlesection.php:37
+#: includes/visualcomposer/dt-titlesection2.php:43
+#@ dewitech
+msgid "Title"
+msgstr ""
+
+#: includes/custom-widget/ds-contact.php:41
+#@ dewitech
+msgid "Address"
+msgstr ""
+
+#: includes/custom-widget/ds-contact.php:49
+#@ dewitech
+msgid "Phone"
+msgstr ""
+
+#: includes/custom-widget/ds-flickr.php:14
+#@ dewitech
+msgid "Widget with a simple ds_flickr information."
+msgstr ""
+
+#: includes/custom-widget/ds-flickr.php:19
+#@ dewitech
+msgid "DS Flickr"
+msgstr ""
+
+#: includes/custom-widget/ds-flickr.php:27
+#@ dewitech
+msgid "Recent Photos"
+msgstr ""
+
+#: includes/custom-widget/ds-flickr.php:28
+#@ dewitech
+msgid "40450978@N08"
+msgstr ""
+
+#: includes/custom-widget/ds-flickr.php:39
+#@ dewitech
+msgid "UserID"
+msgstr ""
+
+#: includes/custom-widget/ds-quote.php:14
+#@ dewitech
+msgid "Widget with a simple ds_quote information."
+msgstr ""
+
+#: includes/custom-widget/ds-quote.php:19
+#@ dewitech
+msgid "DS Quote"
+msgstr ""
+
+#: includes/custom-widget/ds-quote.php:27
+#@ dewitech
+msgid "You dont take a photograph, you make it "
+msgstr ""
+
+#: includes/custom-widget/ds-quote.php:28
+#@ dewitech
+msgid "Ansel Adams"
+msgstr ""
+
+#: includes/custom-widget/ds-quote.php:35
+#@ dewitech
+msgid "Quote"
+msgstr ""
+
+#: includes/custom-widget/ds-quote.php:39
+#@ dewitech
+msgid "Author"
+msgstr ""
+
+#: includes/custom-widget/ds-search.php:14
+#@ dewitech
+msgid "Widget with a simple ds_search information."
+msgstr ""
+
+#: includes/custom-widget/ds-search.php:19
+#@ dewitech
+msgid "DS Search"
+msgstr ""
+
+#: includes/custom-widget/ds-search.php:27
+#@ dewitech
+msgid "Search..."
+msgstr ""
+
+#: includes/custom-widget/ds-search.php:35
+#@ dewitech
+msgid "Placeholder"
+msgstr ""
+
+#: includes/custom-widget/ds-skills.php:14
+#@ dewitech
+msgid "Widget to showoff skills information."
+msgstr ""
+
+#: includes/custom-widget/ds-skills.php:19
+#@ dewitech
+msgid "DS Skills"
+msgstr ""
+
+#: includes/custom-widget/ds-skills.php:27
+#@ dewitech
+msgid "Our Skills"
+msgstr ""
+
+#: includes/custom-widget/ds-skills.php:29
+#@ dewitech
+msgid "90%"
+msgstr ""
+
+#: includes/custom-widget/ds-skills.php:31
+#@ dewitech
+msgid "80%"
+msgstr ""
+
+#: includes/custom-widget/ds-skills.php:32
+#@ dewitech
+msgid "Graphic Design"
+msgstr ""
+
+#: includes/custom-widget/ds-skills.php:33
+#@ dewitech
+msgid "65%"
+msgstr ""
+
+#: includes/custom-widget/ds-skills.php:35
+#@ dewitech
+msgid "55%"
+msgstr ""
+
+#: includes/custom-widget/ds-skills.php:42
+#@ dewitech
+msgid "skills"
+msgstr ""
+
+#: includes/custom-widget/ds-skills.php:46
+#@ dewitech
+msgid "Skills1"
+msgstr ""
+
+#: includes/custom-widget/ds-skills.php:50
+#@ dewitech
+msgid "Amount1"
+msgstr ""
+
+#: includes/custom-widget/ds-skills.php:54
+#@ dewitech
+msgid "Skills2"
+msgstr ""
+
+#: includes/custom-widget/ds-skills.php:58
+#@ dewitech
+msgid "Amount2"
+msgstr ""
+
+#: includes/custom-widget/ds-skills.php:62
+#@ dewitech
+msgid "Skills3"
+msgstr ""
+
+#: includes/custom-widget/ds-skills.php:66
+#@ dewitech
+msgid "Amount3"
+msgstr ""
+
+#: includes/custom-widget/ds-skills.php:70
+#@ dewitech
+msgid "Skills4"
+msgstr ""
+
+#: includes/custom-widget/ds-skills.php:74
+#@ dewitech
+msgid "Amount4"
+msgstr ""
+
+#: includes/func.php:12
+#@ dewitech
+msgid "Back to top"
+msgstr ""
+
+#: includes/meta-box/inc/classes/meta-box.php:284
+#@ dewitech
+msgid "Please correct the errors highlighted below and try again."
+msgstr ""
+
+#: includes/meta-box/inc/classes/meta-box.php:342
+#@ dewitech
+msgid "+"
+msgstr ""
+
+#: includes/meta-box/inc/classes/meta-box.php:364
+#@ dewitech
+msgid "&#8211;"
+msgstr ""
+
+#: includes/meta-box/inc/fields/file.php:65
+#@ dewitech
+msgid "Error: Cannot delete file"
+msgstr ""
+
+#: includes/meta-box/inc/fields/file.php:79
+#@ dewitech
+msgctxt "file upload"
+msgid "Delete"
+msgstr ""
+
+#: includes/meta-box/inc/fields/file.php:80
+#@ dewitech
+msgctxt "file upload"
+msgid "Upload files"
+msgstr ""
+
+#: includes/meta-box/inc/fields/file.php:81
+#@ dewitech
+msgctxt "file upload"
+msgid "+ Add new file"
+msgstr ""
+
+#: includes/meta-box/inc/fields/image.php:64
+#@ dewitech
+msgid "Order saved"
+msgstr ""
+
+#: includes/meta-box/inc/fields/image.php:78
+#: includes/meta-box/inc/fields/thickbox-image.php:35
+#@ dewitech
+msgctxt "image upload"
+msgid "Upload images"
+msgstr ""
+
+#: includes/meta-box/inc/fields/image.php:79
+#@ dewitech
+msgctxt "image upload"
+msgid "+ Add new image"
+msgstr ""
+
+#: includes/meta-box/inc/fields/image.php:136
+#@ dewitech
+msgctxt "image upload"
+msgid "Delete"
+msgstr ""
+
+#: includes/meta-box/inc/fields/image.php:137
+#@ dewitech
+msgctxt "image upload"
+msgid "Edit"
+msgstr ""
+
+#: includes/meta-box/inc/fields/map.php:46
+#@ dewitech
+msgid "Find Address"
+msgstr ""
+
+#: includes/meta-box/inc/fields/plupload-image.php:87
+#@ dewitech
+msgctxt "image upload"
+msgid "Allowed Image Files"
+msgstr ""
+
+#: includes/meta-box/inc/fields/plupload-image.php:111
+#@ dewitech
+msgctxt "image upload"
+msgid "Drop images here"
+msgstr ""
+
+#: includes/meta-box/inc/fields/plupload-image.php:112
+#@ dewitech
+msgctxt "image upload"
+msgid "or"
+msgstr ""
+
+#: includes/meta-box/inc/fields/plupload-image.php:113
+#@ dewitech
+msgctxt "image upload"
+msgid "Select Files"
+msgstr ""
+
+#: includes/meta-box/inc/fields/select-advanced.php:82
+#@ dewitech
+msgid "Select a value"
+msgstr ""
+
+#: includes/plugins/tgm-plugin/class-tgm-plugin-activation.php:196
+#: includes/plugins/tgm-plugin/init.php:98
+#@ dewitech
+msgid "Install Required Plugins"
+msgstr ""
+
+#: includes/plugins/tgm-plugin/class-tgm-plugin-activation.php:197
+#: includes/plugins/tgm-plugin/init.php:99
+#@ dewitech
+msgid "Install Plugins"
+msgstr ""
+
+#: includes/plugins/tgm-plugin/class-tgm-plugin-activation.php:198
+#: includes/plugins/tgm-plugin/init.php:100
+#, php-format
+#@ dewitech
+msgid "Installing Plugin: %s"
+msgstr ""
+
+#: includes/plugins/tgm-plugin/class-tgm-plugin-activation.php:199
+#@ dewitech
+msgid "Something went wrong."
+msgstr ""
+
+#: includes/plugins/tgm-plugin/class-tgm-plugin-activation.php:200
+#: includes/plugins/tgm-plugin/init.php:102
+#, php-format
+#@ dewitech
+msgid "This theme requires the following plugin: %1$s."
+msgid_plural "This theme requires the following plugins: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: includes/plugins/tgm-plugin/class-tgm-plugin-activation.php:201
+#: includes/plugins/tgm-plugin/init.php:103
+#, php-format
+#@ dewitech
+msgid "This theme recommends the following plugin: %1$s."
+msgid_plural "This theme recommends the following plugins: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: includes/plugins/tgm-plugin/class-tgm-plugin-activation.php:202
+#: includes/plugins/tgm-plugin/init.php:104
+#, php-format
+#@ dewitech
+msgid "Sorry, but you do not have the correct permissions to install the %s plugin. Contact the administrator of this site for help on getting the plugin installed."
+msgid_plural "Sorry, but you do not have the correct permissions to install the %s plugins. Contact the administrator of this site for help on getting the plugins installed."
+msgstr[0] ""
+msgstr[1] ""
+
+#: includes/plugins/tgm-plugin/class-tgm-plugin-activation.php:203
+#: includes/plugins/tgm-plugin/init.php:105
+#, php-format
+#@ dewitech
+msgid "The following required plugin is currently inactive: %1$s."
+msgid_plural "The following required plugins are currently inactive: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: includes/plugins/tgm-plugin/class-tgm-plugin-activation.php:204
+#: includes/plugins/tgm-plugin/init.php:106
+#, php-format
+#@ dewitech
+msgid "The following recommended plugin is currently inactive: %1$s."
+msgid_plural "The following recommended plugins are currently inactive: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: includes/plugins/tgm-plugin/class-tgm-plugin-activation.php:205
+#: includes/plugins/tgm-plugin/init.php:107
+#, php-format
+#@ dewitech
+msgid "Sorry, but you do not have the correct permissions to activate the %s plugin. Contact the administrator of this site for help on getting the plugin activated."
+msgid_plural "Sorry, but you do not have the correct permissions to activate the %s plugins. Contact the administrator of this site for help on getting the plugins activated."
+msgstr[0] ""
+msgstr[1] ""
+
+#: includes/plugins/tgm-plugin/class-tgm-plugin-activation.php:206
+#: includes/plugins/tgm-plugin/init.php:108
+#, php-format
+#@ dewitech
+msgid "The following plugin needs to be updated to its latest version to ensure maximum compatibility with this theme: %1$s."
+msgid_plural "The following plugins need to be updated to their latest version to ensure maximum compatibility with this theme: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: includes/plugins/tgm-plugin/class-tgm-plugin-activation.php:207
+#: includes/plugins/tgm-plugin/init.php:109
+#, php-format
+#@ dewitech
+msgid "Sorry, but you do not have the correct permissions to update the %s plugin. Contact the administrator of this site for help on getting the plugin updated."
+msgid_plural "Sorry, but you do not have the correct permissions to update the %s plugins. Contact the administrator of this site for help on getting the plugins updated."
+msgstr[0] ""
+msgstr[1] ""
+
+#: includes/plugins/tgm-plugin/class-tgm-plugin-activation.php:208
+#: includes/plugins/tgm-plugin/init.php:110
+#@ dewitech
+msgid "Begin installing plugin"
+msgid_plural "Begin installing plugins"
+msgstr[0] ""
+msgstr[1] ""
+
+#: includes/plugins/tgm-plugin/class-tgm-plugin-activation.php:209
+#: includes/plugins/tgm-plugin/init.php:111
+#@ dewitech
+msgid "Begin activating plugin"
+msgid_plural "Begin activating plugins"
+msgstr[0] ""
+msgstr[1] ""
+
+#: includes/plugins/tgm-plugin/class-tgm-plugin-activation.php:210
+#: includes/plugins/tgm-plugin/init.php:112
+#@ dewitech
+msgid "Return to Required Plugins Installer"
+msgstr ""
+
+#: includes/plugins/tgm-plugin/class-tgm-plugin-activation.php:211
+#@ dewitech
+msgid "Return to the dashboard"
+msgstr ""
+
+#: includes/plugins/tgm-plugin/class-tgm-plugin-activation.php:212
+#: includes/plugins/tgm-plugin/class-tgm-plugin-activation.php:1951
+#: includes/plugins/tgm-plugin/init.php:113
+#@ dewitech
+msgid "Plugin activated successfully."
+msgstr ""
+
+#: includes/plugins/tgm-plugin/class-tgm-plugin-activation.php:214
+#, php-format
+#@ dewitech
+msgid "All plugins installed and activated successfully. %1$s"
+msgstr ""
+
+#: includes/plugins/tgm-plugin/class-tgm-plugin-activation.php:215
+#@ dewitech
+msgid "Dismiss this notice"
+msgstr ""
+
+#: includes/plugins/tgm-plugin/class-tgm-plugin-activation.php:544
+#: includes/plugins/tgm-plugin/class-tgm-plugin-activation.php:2168
+#@ dewitech
+msgid "Return to the Dashboard"
+msgstr ""
+
+#: includes/plugins/tgm-plugin/class-tgm-plugin-activation.php:1174
+#@ dewitech
+msgid "Private Repository"
+msgstr ""
+
+#: includes/plugins/tgm-plugin/class-tgm-plugin-activation.php:1177
+#@ dewitech
+msgid "Pre-Packaged"
+msgstr ""
+
+#: includes/plugins/tgm-plugin/class-tgm-plugin-activation.php:1182
+#@ dewitech
+msgid "WordPress Repository"
+msgstr ""
+
+#: includes/plugins/tgm-plugin/class-tgm-plugin-activation.php:1185
+#@ dewitech
+msgid "Required"
+msgstr ""
+
+#: includes/plugins/tgm-plugin/class-tgm-plugin-activation.php:1185
+#@ dewitech
+msgid "Recommended"
+msgstr ""
+
+#: includes/plugins/tgm-plugin/class-tgm-plugin-activation.php:1188
+#@ dewitech
+msgid "Not Installed"
+msgstr ""
+
+#: includes/plugins/tgm-plugin/class-tgm-plugin-activation.php:1190
+#@ dewitech
+msgid "Installed But Not Activated"
+msgstr ""
+
+#: includes/plugins/tgm-plugin/class-tgm-plugin-activation.php:1290
+#: includes/plugins/tgm-plugin/class-tgm-plugin-activation.php:1398
+#@ dewitech
+msgid "Install"
+msgstr ""
+
+#: includes/plugins/tgm-plugin/class-tgm-plugin-activation.php:1312
+#: includes/plugins/tgm-plugin/class-tgm-plugin-activation.php:1399
+#@ dewitech
+msgid "Activate"
+msgstr ""
+
+#: includes/plugins/tgm-plugin/class-tgm-plugin-activation.php:1361
+#, php-format
+#@ dewitech
+msgid "No plugins to install or activate. <a href=\"%1$s\" title=\"Return to the Dashboard\">Return to the Dashboard</a>"
+msgstr ""
+
+#: includes/plugins/tgm-plugin/class-tgm-plugin-activation.php:1377
+#@ dewitech
+msgid "Plugin"
+msgstr ""
+
+#: includes/plugins/tgm-plugin/class-tgm-plugin-activation.php:1378
+#: includes/visualcomposer/dt-morvi-skillbar.php:65
+#@ dewitech
+msgid "Source"
+msgstr ""
+
+#: includes/plugins/tgm-plugin/class-tgm-plugin-activation.php:1379
+#@ dewitech
+msgid "Type"
+msgstr ""
+
+#: includes/plugins/tgm-plugin/class-tgm-plugin-activation.php:1380
+#@ dewitech
+msgid "Status"
+msgstr ""
+
+#: includes/plugins/tgm-plugin/class-tgm-plugin-activation.php:1508
+#@ dewitech
+msgid "No plugins are available to be installed at this time."
+msgstr ""
+
+#: includes/plugins/tgm-plugin/class-tgm-plugin-activation.php:1616
+#@ dewitech
+msgid "No plugins are available to be activated at this time."
+msgstr ""
+
+#. gettext fix: identical singular and plural forms found, that may be ambiguous! Please check the code!
+#: includes/plugins/tgm-plugin/class-tgm-plugin-activation.php:1638
+#: includes/plugins/tgm-plugin/class-tgm-plugin-activation.php:213
+#@ dewitech
+msgid "The following plugin was activated successfully:"
+msgid_plural "The following plugins were activated successfully:"
+msgstr[0] ""
+msgstr[1] ""
+
+#: includes/plugins/tgm-plugin/class-tgm-plugin-activation.php:1934
+#@ dewitech
+msgid "Install package not available."
+msgstr ""
+
+#: includes/plugins/tgm-plugin/class-tgm-plugin-activation.php:1935
+#, php-format
+#@ dewitech
+msgid "Downloading install package from <span class=\"code\">%s</span>&#8230;"
+msgstr ""
+
+#: includes/plugins/tgm-plugin/class-tgm-plugin-activation.php:1936
+#@ dewitech
+msgid "Unpacking the package&#8230;"
+msgstr ""
+
+#: includes/plugins/tgm-plugin/class-tgm-plugin-activation.php:1937
+#@ dewitech
+msgid "Installing the plugin&#8230;"
+msgstr ""
+
+#: includes/plugins/tgm-plugin/class-tgm-plugin-activation.php:1938
+#@ dewitech
+msgid "Plugin install failed."
+msgstr ""
+
+#: includes/plugins/tgm-plugin/class-tgm-plugin-activation.php:1939
+#@ dewitech
+msgid "Plugin installed successfully."
+msgstr ""
+
+#: includes/plugins/tgm-plugin/class-tgm-plugin-activation.php:1950
+#@ dewitech
+msgid "Plugin activation failed."
+msgstr ""
+
+#: includes/plugins/tgm-plugin/class-tgm-plugin-activation.php:2064
+#@ dewitech
+msgid "The installation and activation process is starting. This process may take a while on some hosts, so please be patient."
+msgstr ""
+
+#: includes/plugins/tgm-plugin/class-tgm-plugin-activation.php:2065
+#, php-format
+#@ dewitech
+msgid "%1$s installed and activated successfully."
+msgstr ""
+
+#: includes/plugins/tgm-plugin/class-tgm-plugin-activation.php:2065
+#: includes/plugins/tgm-plugin/class-tgm-plugin-activation.php:2074
+#@ dewitech
+msgid "Show Details"
+msgstr ""
+
+#: includes/plugins/tgm-plugin/class-tgm-plugin-activation.php:2065
+#: includes/plugins/tgm-plugin/class-tgm-plugin-activation.php:2074
+#@ dewitech
+msgid "Hide Details"
+msgstr ""
+
+#: includes/plugins/tgm-plugin/class-tgm-plugin-activation.php:2066
+#@ dewitech
+msgid "All installations and activations have been completed."
+msgstr ""
+
+#: includes/plugins/tgm-plugin/class-tgm-plugin-activation.php:2067
+#, php-format
+#@ dewitech
+msgid "Installing and Activating Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: includes/plugins/tgm-plugin/class-tgm-plugin-activation.php:2071
+#@ dewitech
+msgid "The installation process is starting. This process may take a while on some hosts, so please be patient."
+msgstr ""
+
+#: includes/plugins/tgm-plugin/class-tgm-plugin-activation.php:2072
+#, php-format
+#@ dewitech
+msgid "An error occurred while installing %1$s: <strong>%2$s</strong>."
+msgstr ""
+
+#: includes/plugins/tgm-plugin/class-tgm-plugin-activation.php:2073
+#, php-format
+#@ dewitech
+msgid "The installation of %1$s failed."
+msgstr ""
+
+#: includes/plugins/tgm-plugin/class-tgm-plugin-activation.php:2074
+#, php-format
+#@ dewitech
+msgid "%1$s installed successfully."
+msgstr ""
+
+#: includes/plugins/tgm-plugin/class-tgm-plugin-activation.php:2075
+#@ dewitech
+msgid "All installations have been completed."
+msgstr ""
+
+#: includes/plugins/tgm-plugin/class-tgm-plugin-activation.php:2076
+#, php-format
+#@ dewitech
+msgid "Installing Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: includes/plugins/tgm-plugin/init.php:101
+#@ dewitech
+msgid "Something went wrong with the plugin API."
+msgstr ""
+
+#: includes/plugins/tgm-plugin/init.php:114
+#, php-format
+#@ dewitech
+msgid "All plugins installed and activated successfully. %s"
+msgstr ""
+
+#: includes/portfolio.php:4
+#@ dewitech
+msgctxt "taxonomy general name"
+msgid "Categories"
+msgstr ""
+
+#: includes/portfolio.php:5
+#@ dewitech
+msgctxt "taxonomy singular name"
+msgid "Categories"
+msgstr ""
+
+#: includes/portfolio.php:6
+#@ dewitech
+msgid "Search Categories"
+msgstr ""
+
+#: includes/portfolio.php:7
+#@ dewitech
+msgid "All Categories"
+msgstr ""
+
+#: includes/portfolio.php:8
+#@ dewitech
+msgid "Parent Categories"
+msgstr ""
+
+#: includes/portfolio.php:9
+#@ dewitech
+msgid "Parent Categories:"
+msgstr ""
+
+#: includes/portfolio.php:10
+#@ dewitech
+msgid "Edit Categories"
+msgstr ""
+
+#: includes/portfolio.php:11
+#@ dewitech
+msgid "Update Categories"
+msgstr ""
+
+#: includes/portfolio.php:12
+#@ dewitech
+msgid "Add New Categories"
+msgstr ""
+
+#: includes/portfolio.php:13
+#@ dewitech
+msgid "New Categories Name"
+msgstr ""
+
+#: includes/portfolio.php:14
+#@ dewitech
+msgid "Categories"
+msgstr ""
+
+#: includes/portfolio.php:33
+#@ dewitech
+msgctxt "taxonomy general name"
+msgid "Tags"
+msgstr ""
+
+#: includes/portfolio.php:34
+#@ dewitech
+msgctxt "taxonomy singular name"
+msgid "Tags"
+msgstr ""
+
+#: includes/portfolio.php:35
+#@ dewitech
+msgid "Search Tags"
+msgstr ""
+
+#: includes/portfolio.php:36
+#@ dewitech
+msgid "All Tags"
+msgstr ""
+
+#: includes/portfolio.php:37
+#@ dewitech
+msgid "Parent Tags"
+msgstr ""
+
+#: includes/portfolio.php:38
+#@ dewitech
+msgid "Parent Tags:"
+msgstr ""
+
+#: includes/portfolio.php:39
+#@ dewitech
+msgid "Edit Tags"
+msgstr ""
+
+#: includes/portfolio.php:40
+#@ dewitech
+msgid "Update Tags"
+msgstr ""
+
+#: includes/portfolio.php:41
+#@ dewitech
+msgid "Add New Tags"
+msgstr ""
+
+#: includes/portfolio.php:42
+#@ dewitech
+msgid "New Tags Name"
+msgstr ""
+
+#: includes/portfolio.php:43
+#: includes/portfolio.php:46
+#@ dewitech
+msgid "Tags"
+msgstr ""
+
+#: includes/portfolio.php:70
+#@ dewitech
+msgctxt "post type general name"
+msgid "Portfolio"
+msgstr ""
+
+#: includes/portfolio.php:71
+#@ dewitech
+msgctxt "post type singular name"
+msgid "Portfolio Item"
+msgstr ""
+
+#: includes/portfolio.php:72
+#@ dewitech
+msgctxt "portfolio item"
+msgid "Add New"
+msgstr ""
+
+#: includes/portfolio.php:73
+#@ dewitech
+msgid "Add New Portfolio Item"
+msgstr ""
+
+#: includes/portfolio.php:74
+#@ dewitech
+msgid "Edit Portfolio Item"
+msgstr ""
+
+#: includes/portfolio.php:75
+#@ dewitech
+msgid "New Portfolio Item"
+msgstr ""
+
+#: includes/portfolio.php:76
+#@ dewitech
+msgid "View Portfolio Item"
+msgstr ""
+
+#: includes/portfolio.php:77
+#@ dewitech
+msgid "Search Portfolio"
+msgstr ""
+
+#: includes/portfolio.php:78
+#@ dewitech
+msgid "No portfolio items have been added yet"
+msgstr ""
+
+#: includes/portfolio.php:79
+#: includes/services.php:18
+#: includes/teams.php:18
+#: includes/testimoni.php:18
+#@ dewitech
+msgid "Nothing found in Trash"
+msgstr ""
+
+#: includes/services.php:9
+#@ dewitech
+msgctxt "post type general name"
+msgid "Services"
+msgstr ""
+
+#: includes/services.php:10
+#@ dewitech
+msgctxt "post type singular name"
+msgid "Services Item"
+msgstr ""
+
+#: includes/services.php:11
+#@ dewitech
+msgctxt "Services item"
+msgid "Add New"
+msgstr ""
+
+#: includes/services.php:12
+#@ dewitech
+msgid "Add New Services Item"
+msgstr ""
+
+#: includes/services.php:13
+#@ dewitech
+msgid "Edit Services Item"
+msgstr ""
+
+#: includes/services.php:14
+#@ dewitech
+msgid "New Services Item"
+msgstr ""
+
+#: includes/services.php:15
+#@ dewitech
+msgid "View Services Item"
+msgstr ""
+
+#: includes/services.php:16
+#@ dewitech
+msgid "Search Services"
+msgstr ""
+
+#: includes/services.php:17
+#@ dewitech
+msgid "No Services items have been added yet"
+msgstr ""
+
+#: includes/teams.php:9
+#@ dewitech
+msgctxt "post type general name"
+msgid "Teams"
+msgstr ""
+
+#: includes/teams.php:10
+#@ dewitech
+msgctxt "post type singular name"
+msgid "Teams Item"
+msgstr ""
+
+#: includes/teams.php:11
+#@ dewitech
+msgctxt "Teams item"
+msgid "Add New"
+msgstr ""
+
+#: includes/teams.php:12
+#@ dewitech
+msgid "Add New Teams Item"
+msgstr ""
+
+#: includes/teams.php:13
+#@ dewitech
+msgid "Edit Teams Item"
+msgstr ""
+
+#: includes/teams.php:14
+#@ dewitech
+msgid "New Teams Item"
+msgstr ""
+
+#: includes/teams.php:15
+#@ dewitech
+msgid "View Teams Item"
+msgstr ""
+
+#: includes/teams.php:16
+#@ dewitech
+msgid "Search Teams"
+msgstr ""
+
+#: includes/teams.php:17
+#@ dewitech
+msgid "No Teams items have been added yet"
+msgstr ""
+
+#: includes/testimoni.php:9
+#@ dewitech
+msgctxt "post type general name"
+msgid "Testimoni"
+msgstr ""
+
+#: includes/testimoni.php:10
+#@ dewitech
+msgctxt "post type singular name"
+msgid "Testimoni Item"
+msgstr ""
+
+#: includes/testimoni.php:11
+#@ dewitech
+msgctxt "Testimoni item"
+msgid "Add New"
+msgstr ""
+
+#: includes/testimoni.php:12
+#@ dewitech
+msgid "Add New Testimoni Item"
+msgstr ""
+
+#: includes/testimoni.php:13
+#@ dewitech
+msgid "Edit Testimoni Item"
+msgstr ""
+
+#: includes/testimoni.php:14
+#@ dewitech
+msgid "New Testimoni Item"
+msgstr ""
+
+#: includes/testimoni.php:15
+#@ dewitech
+msgid "View Testimoni Item"
+msgstr ""
+
+#: includes/testimoni.php:16
+#@ dewitech
+msgid "Search Testimoni"
+msgstr ""
+
+#: includes/testimoni.php:17
+#@ dewitech
+msgid "No Testimoni items have been added yet"
+msgstr ""
+
+#: includes/visualcomposer/dt-accordion.php:55
+#@ dewitech
+msgid "DT Accordion"
+msgstr ""
+
+#: includes/visualcomposer/dt-accordion.php:70
+#: includes/visualcomposer/dt-accordion.php:96
+#: includes/visualcomposer/dt-circlecounter.php:53
+#: includes/visualcomposer/dt-colorbar.php:47
+#: includes/visualcomposer/dt-featurebox-2.php:49
+#: includes/visualcomposer/dt-featurebox-3.php:46
+#: includes/visualcomposer/dt-featurebox.php:47
+#: includes/visualcomposer/dt-morvi-call-to-action.php:47
+#: includes/visualcomposer/dt-morvi-skillbar.php:68
+#: includes/visualcomposer/dt-morvi-tag.php:53
+#: includes/visualcomposer/dt-morvi-tag.php:62
+#: includes/visualcomposer/dt-morvi-tag.php:71
+#: includes/visualcomposer/dt-pricingtable.php:81
+#: includes/visualcomposer/dt-titlesection.php:40
+#: includes/visualcomposer/dt-titlesection2.php:46
+#@ dewitech
+msgid "Set the title."
+msgstr ""
+
+#: includes/visualcomposer/dt-accordion.php:81
+#@ dewitech
+msgid "DT Accordion Item"
+msgstr ""
+
+#: includes/visualcomposer/dt-accordion.php:95
+#@ dewitech
+msgid "Accordion 1"
+msgstr ""
+
+#: includes/visualcomposer/dt-accordion.php:103
+#: includes/visualcomposer/dt-countbox.php:49
+#: includes/visualcomposer/dt-morvi-call-to-action.php:44
+#: includes/visualcomposer/dt-quoteslider.php:112
+#@ dewitech
+msgid "Text"
+msgstr ""
+
+#: includes/visualcomposer/dt-accordion.php:105
+#@ dewitech
+msgid "Your text accordion"
+msgstr ""
+
+#: includes/visualcomposer/dt-accordion.php:106
+#@ dewitech
+msgid "Set text."
+msgstr ""
+
+#: includes/visualcomposer/dt-accordion.php:113
+#: includes/visualcomposer/dt-colorbar.php:58
+#: includes/visualcomposer/dt-featurebox-2.php:66
+#: includes/visualcomposer/dt-featurebox-3.php:63
+#: includes/visualcomposer/dt-featurebox.php:64
+#: includes/visualcomposer/dt-morvi-tag.php:68
+#: includes/visualcomposer/dt-ourteam.php:133
+#: includes/visualcomposer/dt-tabimageslider.php:105
+#@ dewitech
+msgid "Icon"
+msgstr ""
+
+#: includes/visualcomposer/dt-accordion.php:115
+#@ dewitech
+msgid "fa-rocket"
+msgstr ""
+
+#: includes/visualcomposer/dt-accordion.php:116
+#@ dewitech
+msgid "Icon for accordion item. http://fortawesome.github.io/Font-Awesome/icons/."
+msgstr ""
+
+#: includes/visualcomposer/dt-accordion.php:122
+#: includes/visualcomposer/dt-tabimageslider.php:119
+#@ dewitech
+msgid "Active"
+msgstr ""
+
+#: includes/visualcomposer/dt-blog.php:63
+#@ dewitech
+msgid "DT Blog"
+msgstr ""
+
+#: includes/visualcomposer/dt-blog.php:67
+#: includes/visualcomposer/dt-button.php:29
+#: includes/visualcomposer/dt-colorbar.php:39
+#: includes/visualcomposer/dt-contactform.php:48
+#: includes/visualcomposer/dt-countbox.php:32
+#: includes/visualcomposer/dt-morvi-form-contact.php:105
+#: includes/visualcomposer/dt-portfolio.php:87
+#: includes/visualcomposer/dt-pricingtable.php:73
+#: includes/visualcomposer/dt-thecontact.php:32
+#: includes/visualcomposer/x23-sliderhome.php:1
+#@ dewitech
+msgid "Content"
+msgstr ""
+
+#: includes/visualcomposer/dt-blog.php:74
+#: includes/visualcomposer/dt-portfolio.php:94
+#@ dewitech
+msgid "Limit Post"
+msgstr ""
+
+#: includes/visualcomposer/dt-blog.php:76
+#: includes/visualcomposer/dt-morvi-teams.php:86
+#: includes/visualcomposer/dt-morvi-testimonial.php:68
+#@ dewitech
+msgid "3"
+msgstr ""
+
+#: includes/visualcomposer/dt-blog.php:77
+#: includes/visualcomposer/dt-portfolio.php:97
+#@ dewitech
+msgid "Set the limit."
+msgstr ""
+
+#: includes/visualcomposer/dt-button.php:25
+#@ dewitech
+msgid "DT Button"
+msgstr ""
+
+#: includes/visualcomposer/dt-button.php:36
+#@ dewitech
+msgid "Button Name"
+msgstr ""
+
+#: includes/visualcomposer/dt-button.php:38
+#@ dewitech
+msgid "Your Button"
+msgstr ""
+
+#: includes/visualcomposer/dt-button.php:39
+#: includes/visualcomposer/dt-ourteam.php:115
+#@ dewitech
+msgid "Set the name."
+msgstr ""
+
+#: includes/visualcomposer/dt-button.php:46
+#: includes/visualcomposer/dt-pricingtable.php:99
+#@ dewitech
+msgid "Link Button"
+msgstr ""
+
+#: includes/visualcomposer/dt-button.php:48
+#: includes/visualcomposer/dt-featurebox-2.php:78
+#: includes/visualcomposer/dt-featurebox-3.php:75
+#: includes/visualcomposer/dt-featurebox.php:76
+#: includes/visualcomposer/dt-morvi-call-to-action.php:65
+#: includes/visualcomposer/dt-pricingtable.php:101
+#@ dewitech
+msgid "#"
+msgstr ""
+
+#: includes/visualcomposer/dt-button.php:49
+#: includes/visualcomposer/dt-countbox.php:52
+#: includes/visualcomposer/dt-featurebox-2.php:79
+#: includes/visualcomposer/dt-featurebox-3.php:76
+#: includes/visualcomposer/dt-featurebox.php:77
+#: includes/visualcomposer/dt-titlesection.php:50
+#: includes/visualcomposer/dt-titlesection2.php:56
+#@ dewitech
+msgid "Set text for counter."
+msgstr ""
+
+#: includes/visualcomposer/dt-circlecounter.php:30
+#@ dewitech
+msgid "DT Circle Counter"
+msgstr ""
+
+#: includes/visualcomposer/dt-circlecounter.php:57
+#: includes/visualcomposer/dt-colorbar.php:51
+#: includes/visualcomposer/dt-featurebox-2.php:56
+#: includes/visualcomposer/dt-featurebox-3.php:53
+#: includes/visualcomposer/dt-featurebox.php:54
+#: includes/visualcomposer/dt-homeslider.php:125
+#: includes/visualcomposer/dt-morvi-tag.php:59
+#: includes/visualcomposer/dt-ourteam.php:126
+#: includes/visualcomposer/dt-titlesection.php:47
+#: includes/visualcomposer/dt-titlesection2.php:53
+#@ dewitech
+msgid "Description"
+msgstr ""
+
+#: includes/visualcomposer/dt-circlecounter.php:60
+#: includes/visualcomposer/dt-homeslider.php:128
+#: includes/visualcomposer/dt-ourteam.php:129
+#@ dewitech
+msgid "Set the description."
+msgstr ""
+
+#: includes/visualcomposer/dt-circlecounter.php:64
+#@ dewitech
+msgid "Percentage"
+msgstr ""
+
+#: includes/visualcomposer/dt-circlecounter.php:67
+#@ dewitech
+msgid "Set the percentage 0-100."
+msgstr ""
+
+#: includes/visualcomposer/dt-colorbar.php:35
+#@ dewitech
+msgid "DT Color Bar"
+msgstr ""
+
+#: includes/visualcomposer/dt-colorbar.php:46
+#@ dewitech
+msgid "Title Color Bar"
+msgstr ""
+
+#: includes/visualcomposer/dt-colorbar.php:54
+#: includes/visualcomposer/dt-featurebox-2.php:59
+#: includes/visualcomposer/dt-featurebox-3.php:56
+#: includes/visualcomposer/dt-featurebox.php:57
+#@ dewitech
+msgid "Set text for description."
+msgstr ""
+
+#: includes/visualcomposer/dt-colorbar.php:60
+#@ dewitech
+msgid "fa-tasks"
+msgstr ""
+
+#: includes/visualcomposer/dt-colorbar.php:61
+#@ dewitech
+msgid "Set the icon. More icon at http://fontawesome.io/icons/."
+msgstr ""
+
+#: includes/visualcomposer/dt-colorbar.php:65
+#@ dewitech
+msgid "Color Bar"
+msgstr ""
+
+#: includes/visualcomposer/dt-colorbar.php:68
+#@ dewitech
+msgid "Set the color."
+msgstr ""
+
+#: includes/visualcomposer/dt-colorbar.php:72
+#@ dewitech
+msgid "Text Position"
+msgstr ""
+
+#: includes/visualcomposer/dt-colorbar.php:75
+#: includes/visualcomposer/dt-thecontact.php:42
+#: includes/visualcomposer/dt-thecontact.php:52
+#: includes/visualcomposer/dt-thecontact.php:62
+#@ dewitech
+msgid "-"
+msgstr ""
+
+#: includes/visualcomposer/dt-contactform.php:44
+#@ dewitech
+msgid "DT Contact Form"
+msgstr ""
+
+#: includes/visualcomposer/dt-contactform.php:57
+#@ dewitech
+msgid "Send us a message"
+msgstr ""
+
+#: includes/visualcomposer/dt-countbox.php:28
+#@ dewitech
+msgid "DT Count Box"
+msgstr ""
+
+#: includes/visualcomposer/dt-countbox.php:39
+#@ dewitech
+msgid "Number"
+msgstr ""
+
+#: includes/visualcomposer/dt-countbox.php:41
+#@ dewitech
+msgid "50"
+msgstr ""
+
+#: includes/visualcomposer/dt-countbox.php:42
+#@ dewitech
+msgid "Set number for counter."
+msgstr ""
+
+#: includes/visualcomposer/dt-countbox.php:51
+#: includes/visualcomposer/dt-featurebox-2.php:58
+#: includes/visualcomposer/dt-featurebox-2.php:88
+#: includes/visualcomposer/dt-featurebox-3.php:55
+#: includes/visualcomposer/dt-featurebox-3.php:85
+#: includes/visualcomposer/dt-featurebox.php:56
+#: includes/visualcomposer/dt-featurebox.php:86
+#: includes/visualcomposer/dt-thecontact.php:51
+#: includes/visualcomposer/dt-thecontact.php:61
+#: includes/visualcomposer/dt-titlesection.php:49
+#: includes/visualcomposer/dt-titlesection2.php:55
+#@ dewitech
+msgid "Your text here"
+msgstr ""
+
+#: includes/visualcomposer/dt-featurebox-2.php:35
+#@ dewitech
+msgid "DT Feature Box 2"
+msgstr ""
+
+#: includes/visualcomposer/dt-featurebox-2.php:39
+#: includes/visualcomposer/dt-featurebox-3.php:36
+#: includes/visualcomposer/dt-featurebox-3.php:114
+#: includes/visualcomposer/dt-featurebox.php:37
+#: includes/visualcomposer/dt-line.php:67
+#: includes/visualcomposer/dt-line.php:85
+#: includes/visualcomposer/dt-morvi-call-to-action.php:37
+#: includes/visualcomposer/dt-morvi-form-contact.php:40
+#: includes/visualcomposer/dt-morvi-form-contact.php:98
+#: includes/visualcomposer/dt-morvi-logos.php:42
+#: includes/visualcomposer/dt-morvi-logos.php:60
+#: includes/visualcomposer/dt-morvi-logos.php:100
+#: includes/visualcomposer/dt-morvi-map.php:43
+#: includes/visualcomposer/dt-morvi-pagetitle-breadcrumb.php:35
+#: includes/visualcomposer/dt-morvi-services.php:82
+#: includes/visualcomposer/dt-morvi-skillbar.php:58
+#: includes/visualcomposer/dt-morvi-tag.php:43
+#: includes/visualcomposer/dt-morvi-teams.php:77
+#: includes/visualcomposer/dt-morvi-testimonial.php:59
+#: includes/visualcomposer/dt-morvi-text-slider.php:46
+#: includes/visualcomposer/dt-morvi-text-slider.php:64
+#: includes/visualcomposer/dt-morvi-text-slider.php:104
+#: includes/visualcomposer/dt-morvi-work.php:153
+#: includes/visualcomposer/dt-quoteslider.php:76
+#: includes/visualcomposer/dt-quoteslider.php:94
+#: includes/visualcomposer/dt-titlesection.php:30
+#: includes/visualcomposer/dt-titlesection2.php:36
+#@ dewitech
+msgid "dewitech shortcode"
+msgstr ""
+
+#: includes/visualcomposer/dt-featurebox-2.php:48
+#: includes/visualcomposer/dt-featurebox-3.php:45
+#: includes/visualcomposer/dt-featurebox.php:46
+#: includes/visualcomposer/dt-morvi-tag.php:52
+#: includes/visualcomposer/dt-morvi-tag.php:70
+#: includes/visualcomposer/dt-titlesection.php:39
+#: includes/visualcomposer/dt-titlesection2.php:45
+#@ dewitech
+msgid "Your Title"
+msgstr ""
+
+#: includes/visualcomposer/dt-featurebox-2.php:68
+#: includes/visualcomposer/dt-featurebox-3.php:65
+#: includes/visualcomposer/dt-featurebox.php:66
+#@ dewitech
+msgid "icon"
+msgstr ""
+
+#: includes/visualcomposer/dt-featurebox-2.php:69
+#: includes/visualcomposer/dt-featurebox-3.php:66
+#: includes/visualcomposer/dt-featurebox.php:67
+#@ dewitech
+msgid "Set icon."
+msgstr ""
+
+#: includes/visualcomposer/dt-featurebox-2.php:76
+#: includes/visualcomposer/dt-featurebox-3.php:73
+#: includes/visualcomposer/dt-featurebox.php:74
+#@ dewitech
+msgid "url"
+msgstr ""
+
+#: includes/visualcomposer/dt-featurebox-2.php:86
+#: includes/visualcomposer/dt-featurebox-3.php:83
+#: includes/visualcomposer/dt-featurebox.php:84
+#@ dewitech
+msgid "Anchor"
+msgstr ""
+
+#: includes/visualcomposer/dt-featurebox-2.php:89
+#: includes/visualcomposer/dt-featurebox-3.php:86
+#: includes/visualcomposer/dt-featurebox.php:87
+#@ dewitech
+msgid "Set text for anchor."
+msgstr ""
+
+#: includes/visualcomposer/dt-featurebox-3.php:32
+#@ dewitech
+msgid "DT Feature Box 3"
+msgstr ""
+
+#: includes/visualcomposer/dt-featurebox-3.php:109
+#: includes/visualcomposer/dt-morvi-logos.php:95
+#: includes/visualcomposer/dt-morvi-text-slider.php:99
+#@ dewitech
+msgid "DT Tabs"
+msgstr ""
+
+#: includes/visualcomposer/dt-featurebox-3.php:115
+#: includes/visualcomposer/dt-morvi-logos.php:101
+#: includes/visualcomposer/dt-morvi-text-slider.php:105
+#: includes/visualcomposer/x23-sliderhome.php:1
+#@ dewitech
+msgid "Tabbed content"
+msgstr ""
+
+#: includes/visualcomposer/dt-featurebox-3.php:119
+#: includes/visualcomposer/dt-morvi-logos.php:105
+#: includes/visualcomposer/dt-morvi-text-slider.php:109
+#: includes/visualcomposer/x23-sliderhome.php:1
+#@ dewitech
+msgid "Widget title"
+msgstr ""
+
+#: includes/visualcomposer/dt-featurebox-3.php:121
+#: includes/visualcomposer/dt-morvi-logos.php:107
+#: includes/visualcomposer/dt-morvi-text-slider.php:111
+#: includes/visualcomposer/x23-sliderhome.php:1
+#@ dewitech
+msgid "Enter text which will be used as widget title. Leave blank if no title is needed."
+msgstr ""
+
+#: includes/visualcomposer/dt-featurebox-3.php:125
+#: includes/visualcomposer/dt-morvi-logos.php:111
+#: includes/visualcomposer/dt-morvi-text-slider.php:115
+#: includes/visualcomposer/x23-sliderhome.php:1
+#@ dewitech
+msgid "Auto rotate tabs"
+msgstr ""
+
+#: includes/visualcomposer/dt-featurebox-3.php:127
+#: includes/visualcomposer/dt-morvi-logos.php:113
+#: includes/visualcomposer/dt-morvi-text-slider.php:117
+#: includes/visualcomposer/x23-sliderhome.php:1
+#@ dewitech
+msgid "Disable"
+msgstr ""
+
+#: includes/visualcomposer/dt-featurebox-3.php:129
+#: includes/visualcomposer/dt-morvi-logos.php:115
+#: includes/visualcomposer/dt-morvi-text-slider.php:119
+#: includes/visualcomposer/x23-sliderhome.php:1
+#@ dewitech
+msgid "Auto rotate tabs each X seconds."
+msgstr ""
+
+#: includes/visualcomposer/dt-featurebox-3.php:133
+#: includes/visualcomposer/dt-morvi-logos.php:119
+#: includes/visualcomposer/dt-morvi-text-slider.php:123
+#: includes/visualcomposer/x23-sliderhome.php:1
+#@ dewitech
+msgid "Extra class name"
+msgstr ""
+
+#: includes/visualcomposer/dt-featurebox-3.php:135
+#: includes/visualcomposer/dt-morvi-logos.php:121
+#: includes/visualcomposer/dt-morvi-text-slider.php:125
+#: includes/visualcomposer/x23-sliderhome.php:1
+#@ dewitech
+msgid "If you wish to style particular content element differently, then use this field to add a class name and then refer to it in your css file."
+msgstr ""
+
+#: includes/visualcomposer/dt-featurebox-3.php:146
+#: includes/visualcomposer/dt-morvi-logos.php:132
+#: includes/visualcomposer/dt-morvi-text-slider.php:136
+#: includes/visualcomposer/x23-sliderhome.php:1
+#@ dewitech
+msgid "Tab 1"
+msgstr ""
+
+#: includes/visualcomposer/dt-featurebox-3.php:147
+#: includes/visualcomposer/dt-morvi-logos.php:133
+#: includes/visualcomposer/dt-morvi-text-slider.php:137
+#: includes/visualcomposer/x23-sliderhome.php:1
+#@ dewitech
+msgid "Tab 2"
+msgstr ""
+
+#: includes/visualcomposer/dt-featurebox-3.php:153
+#: includes/visualcomposer/dt-morvi-logos.php:139
+#: includes/visualcomposer/dt-morvi-text-slider.php:143
+#@ dewitech
+msgid "Tab"
+msgstr ""
+
+#: includes/visualcomposer/dt-featurebox-3.php:163
+#: includes/visualcomposer/dt-morvi-logos.php:149
+#: includes/visualcomposer/dt-morvi-text-slider.php:153
+#@ dewitech
+msgid "Tab title."
+msgstr ""
+
+#: includes/visualcomposer/dt-featurebox-3.php:167
+#: includes/visualcomposer/dt-morvi-logos.php:153
+#: includes/visualcomposer/dt-morvi-text-slider.php:157
+#@ dewitech
+msgid "Tab ID"
+msgstr ""
+
+#: includes/visualcomposer/dt-featurebox.php:33
+#@ dewitech
+msgid "DT Feature Box"
+msgstr ""
+
+#: includes/visualcomposer/dt-homeslider.php:61
+#@ dewitech
+msgid "DT Home Slider"
+msgstr ""
+
+#: includes/visualcomposer/dt-homeslider.php:70
+#@ dewitech
+msgid "Show Paging?"
+msgstr ""
+
+#: includes/visualcomposer/dt-homeslider.php:76
+#@ dewitech
+msgid "Set the pager to show."
+msgstr ""
+
+#: includes/visualcomposer/dt-homeslider.php:81
+#@ dewitech
+msgid "Show Button?"
+msgstr ""
+
+#: includes/visualcomposer/dt-homeslider.php:87
+#@ dewitech
+msgid "Set the button to show."
+msgstr ""
+
+#: includes/visualcomposer/dt-homeslider.php:92
+#: includes/visualcomposer/dt-morvi-call-to-action.php:53
+#: includes/visualcomposer/dt-pricingtable.php:92
+#@ dewitech
+msgid "Button Text"
+msgstr ""
+
+#: includes/visualcomposer/dt-homeslider.php:95
+#@ dewitech
+msgid "Set button title."
+msgstr ""
+
+#: includes/visualcomposer/dt-homeslider.php:100
+#@ dewitech
+msgid "Button Link"
+msgstr ""
+
+#: includes/visualcomposer/dt-homeslider.php:103
+#@ dewitech
+msgid "Set link of button."
+msgstr ""
+
+#: includes/visualcomposer/dt-homeslider.php:109
+#@ dewitech
+msgid "DT Item Home Slider"
+msgstr ""
+
+#: includes/visualcomposer/dt-homeslider.php:117
+#@ dewitech
+msgid "Heading Text"
+msgstr ""
+
+#: includes/visualcomposer/dt-homeslider.php:120
+#@ dewitech
+msgid "Set the heading text."
+msgstr ""
+
+#: includes/visualcomposer/dt-line.php:60
+#@ dewitech
+msgid "DT Separator"
+msgstr ""
+
+#: includes/visualcomposer/dt-line.php:77
+#@ dewitech
+msgid "DT Item Separator"
+msgstr ""
+
+#: includes/visualcomposer/dt-line.php:92
+#@ dewitech
+msgid "Set the Title."
+msgstr ""
+
+#: includes/visualcomposer/dt-line.php:96
+#: includes/visualcomposer/dt-morvi-logos.php:64
+#@ dewitech
+msgid "URL"
+msgstr ""
+
+#: includes/visualcomposer/dt-line.php:99
+#: includes/visualcomposer/dt-morvi-logos.php:67
+#: includes/visualcomposer/dt-morvi-text-slider.php:71
+#: includes/visualcomposer/dt-quoteslider.php:108
+#: includes/visualcomposer/dt-quoteslider.php:115
+#: includes/visualcomposer/dt-quoteslider.php:122
+#: includes/visualcomposer/dt-tabimageslider.php:122
+#@ dewitech
+msgid "~"
+msgstr ""
+
+#: includes/visualcomposer/dt-morvi-call-to-action.php:33
+#@ dewitech
+msgid "DT Call To Action"
+msgstr ""
+
+#: includes/visualcomposer/dt-morvi-call-to-action.php:55
+#@ dewitech
+msgid "Action"
+msgstr ""
+
+#: includes/visualcomposer/dt-morvi-call-to-action.php:56
+#@ dewitech
+msgid "Text of Button"
+msgstr ""
+
+#: includes/visualcomposer/dt-morvi-call-to-action.php:63
+#@ dewitech
+msgid "Button URL"
+msgstr ""
+
+#: includes/visualcomposer/dt-morvi-call-to-action.php:66
+#@ dewitech
+msgid "Text of URL"
+msgstr ""
+
+#: includes/visualcomposer/dt-morvi-form-contact.php:36
+#@ dewitech
+msgid "DT Form Contact"
+msgstr ""
+
+#: includes/visualcomposer/dt-morvi-form-contact.php:47
+#@ dewitech
+msgid "Main Content"
+msgstr ""
+
+#: includes/visualcomposer/dt-morvi-form-contact.php:50
+#: includes/visualcomposer/dt-morvi-form-contact.php:108
+#@ dewitech
+msgid "Main Content of Form Contact"
+msgstr ""
+
+#: includes/visualcomposer/dt-morvi-form-contact.php:56
+#@ dewitech
+msgid "Form Title"
+msgstr ""
+
+#: includes/visualcomposer/dt-morvi-form-contact.php:59
+#@ dewitech
+msgid "Title of Form Contact"
+msgstr ""
+
+#: includes/visualcomposer/dt-morvi-form-contact.php:94
+#@ dewitech
+msgid "DT Sidebar Contact"
+msgstr ""
+
+#: includes/visualcomposer/dt-morvi-logos.php:34
+#@ dewitech
+msgid "Client Logos"
+msgstr ""
+
+#: includes/visualcomposer/dt-morvi-logos.php:52
+#@ dewitech
+msgid "DT Item Logos"
+msgstr ""
+
+#: includes/visualcomposer/dt-morvi-logos.php:71
+#@ dewitech
+msgid "Clients Images"
+msgstr ""
+
+#: includes/visualcomposer/dt-morvi-logos.php:74
+#@ dewitech
+msgid "OurClients Images"
+msgstr ""
+
+#: includes/visualcomposer/dt-morvi-map.php:39
+#@ dewitech
+msgid "DT Contact Maps"
+msgstr ""
+
+#: includes/visualcomposer/dt-morvi-pagetitle-breadcrumb.php:31
+#@ dewitech
+msgid "DT Page Title & Breadcrumb"
+msgstr ""
+
+#: includes/visualcomposer/dt-morvi-services.php:78
+#@ dewitech
+msgid "DT List Services"
+msgstr ""
+
+#: includes/visualcomposer/dt-morvi-services.php:89
+#: includes/visualcomposer/dt-morvi-teams.php:84
+#: includes/visualcomposer/dt-morvi-testimonial.php:66
+#@ dewitech
+msgid "Limit"
+msgstr ""
+
+#: includes/visualcomposer/dt-morvi-services.php:91
+#@ dewitech
+msgid "6"
+msgstr ""
+
+#: includes/visualcomposer/dt-morvi-services.php:92
+#@ dewitech
+msgid "Limit of the services, insert -1 to show all services"
+msgstr ""
+
+#: includes/visualcomposer/dt-morvi-services.php:97
+#@ dewitech
+msgid "Order"
+msgstr ""
+
+#: includes/visualcomposer/dt-morvi-services.php:104
+#@ dewitech
+msgid "Order services by title"
+msgstr ""
+
+#: includes/visualcomposer/dt-morvi-services.php:111
+#@ dewitech
+msgid "Services ID"
+msgstr ""
+
+#: includes/visualcomposer/dt-morvi-services.php:114
+#@ dewitech
+msgid "Services IDs, separated by commas."
+msgstr ""
+
+#: includes/visualcomposer/dt-morvi-skillbar.php:54
+#@ dewitech
+msgid "DT Skillbar"
+msgstr ""
+
+#: includes/visualcomposer/dt-morvi-skillbar.php:67
+#@ dewitech
+msgid "40|Wordpress|#333333|#525252,55|Design|#27ae60|#2ecc71"
+msgstr ""
+
+#: includes/visualcomposer/dt-morvi-tag.php:39
+#@ dewitech
+msgid "DT Work Tag"
+msgstr ""
+
+#: includes/visualcomposer/dt-morvi-tag.php:61
+#@ dewitech
+msgid "Vestibulum volutpat, lacus a ultrices sagittis, mi neque euismod dui, eu pulvinar nunc sapien ornare nisl. Phasellus pede arcu, dapibus eu ped, fermentum et, dapibus sed, urna. Nam nulla quam, gravida non ultric."
+msgstr ""
+
+#: includes/visualcomposer/dt-morvi-tag.php:75
+#@ dewitech
+msgid "Icon Align"
+msgstr ""
+
+#: includes/visualcomposer/dt-morvi-tag.php:83
+#@ dewitech
+msgid "Align Of Icon"
+msgstr ""
+
+#: includes/visualcomposer/dt-morvi-teams.php:73
+#@ dewitech
+msgid "DT Teams Section"
+msgstr ""
+
+#: includes/visualcomposer/dt-morvi-teams.php:87
+#@ dewitech
+msgid "Count Of Team"
+msgstr ""
+
+#: includes/visualcomposer/dt-morvi-testimonial.php:55
+#@ dewitech
+msgid "DT Slide testimonial"
+msgstr ""
+
+#: includes/visualcomposer/dt-morvi-testimonial.php:69
+#@ dewitech
+msgid "Count of Slider"
+msgstr ""
+
+#: includes/visualcomposer/dt-morvi-text-slider.php:39
+#@ dewitech
+msgid "DT Text Slider"
+msgstr ""
+
+#: includes/visualcomposer/dt-morvi-text-slider.php:56
+#@ dewitech
+msgid "DT Text Slider Item"
+msgstr ""
+
+#: includes/visualcomposer/dt-morvi-text-slider.php:68
+#@ dewitech
+msgid "Heading"
+msgstr ""
+
+#: includes/visualcomposer/dt-morvi-text-slider.php:75
+#@ dewitech
+msgid "The Content"
+msgstr ""
+
+#: includes/visualcomposer/dt-morvi-text-slider.php:78
+#@ dewitech
+msgid " "
+msgstr ""
+
+#: includes/visualcomposer/dt-morvi-work.php:149
+#@ dewitech
+msgid "DT Portfolio Item"
+msgstr ""
+
+#: includes/visualcomposer/dt-morvi-work.php:160
+#@ dewitech
+msgid "List Type"
+msgstr ""
+
+#: includes/visualcomposer/dt-morvi-work.php:169
+#@ dewitech
+msgid "Select the List Items type"
+msgstr ""
+
+#: includes/visualcomposer/dt-ourteam.php:104
+#@ dewitech
+msgid "DT Our Team"
+msgstr ""
+
+#: includes/visualcomposer/dt-ourteam.php:119
+#@ dewitech
+msgid "Job Title"
+msgstr ""
+
+#: includes/visualcomposer/dt-ourteam.php:122
+#@ dewitech
+msgid "Set the job title."
+msgstr ""
+
+#: includes/visualcomposer/dt-ourteam.php:136
+#@ dewitech
+msgid "Set the icon on hover. See at http://fontawesome.io/icons/ for more icon."
+msgstr ""
+
+#: includes/visualcomposer/dt-ourteam.php:143
+#@ dewitech
+msgid "Set the image. Leave it blank if you do not want to be filled."
+msgstr ""
+
+#: includes/visualcomposer/dt-ourteam.php:147
+#@ dewitech
+msgid "Skill Name 1"
+msgstr ""
+
+#: includes/visualcomposer/dt-ourteam.php:150
+#@ dewitech
+msgid "Set the skill name 1. Leave it blank if you do not want to be filled."
+msgstr ""
+
+#: includes/visualcomposer/dt-ourteam.php:154
+#@ dewitech
+msgid "Skill Bar 1"
+msgstr ""
+
+#: includes/visualcomposer/dt-ourteam.php:157
+#@ dewitech
+msgid "Set the skill bar 1, value 1-5. Leave it blank if you do not want to be filled."
+msgstr ""
+
+#: includes/visualcomposer/dt-ourteam.php:161
+#@ dewitech
+msgid "Skill Name 2"
+msgstr ""
+
+#: includes/visualcomposer/dt-ourteam.php:164
+#@ dewitech
+msgid "Set the skill name 2. Leave it blank if you do not want to be filled."
+msgstr ""
+
+#: includes/visualcomposer/dt-ourteam.php:168
+#@ dewitech
+msgid "Skill Bar 2"
+msgstr ""
+
+#: includes/visualcomposer/dt-ourteam.php:171
+#@ dewitech
+msgid "Set the skill bar 2, value 1-5. Leave it blank if you do not want to be filled."
+msgstr ""
+
+#: includes/visualcomposer/dt-ourteam.php:175
+#@ dewitech
+msgid "Skill Name 3"
+msgstr ""
+
+#: includes/visualcomposer/dt-ourteam.php:178
+#@ dewitech
+msgid "Set the skill name 3. Leave it blank if you do not want to be filled."
+msgstr ""
+
+#: includes/visualcomposer/dt-ourteam.php:182
+#@ dewitech
+msgid "Skill Bar 3"
+msgstr ""
+
+#: includes/visualcomposer/dt-ourteam.php:185
+#@ dewitech
+msgid "Set the skill bar 3, value 1-5. Leave it blank if you do not want to be filled."
+msgstr ""
+
+#: includes/visualcomposer/dt-ourteam.php:189
+#@ dewitech
+msgid "Skill Name 4"
+msgstr ""
+
+#: includes/visualcomposer/dt-ourteam.php:192
+#@ dewitech
+msgid "Set the skill name 4. Leave it blank if you do not want to be filled."
+msgstr ""
+
+#: includes/visualcomposer/dt-ourteam.php:196
+#@ dewitech
+msgid "Skill Bar 4"
+msgstr ""
+
+#: includes/visualcomposer/dt-ourteam.php:199
+#@ dewitech
+msgid "Set the skill bar 4, value 1-5. Leave it blank if you do not want to be filled."
+msgstr ""
+
+#: includes/visualcomposer/dt-ourteam.php:203
+#@ dewitech
+msgid "Skill Name 5"
+msgstr ""
+
+#: includes/visualcomposer/dt-ourteam.php:206
+#@ dewitech
+msgid "Set the skill name 5. Leave it blank if you do not want to be filled."
+msgstr ""
+
+#: includes/visualcomposer/dt-ourteam.php:210
+#@ dewitech
+msgid "Skill Bar 5"
+msgstr ""
+
+#: includes/visualcomposer/dt-ourteam.php:213
+#@ dewitech
+msgid "Set the skill bar 5, value 1-5. Leave it blank if you do not want to be filled."
+msgstr ""
+
+#: includes/visualcomposer/dt-ourteam.php:217
+#@ dewitech
+msgid "Facebook"
+msgstr ""
+
+#: includes/visualcomposer/dt-ourteam.php:220
+#@ dewitech
+msgid "Set the facebook profile link. Leave it blank if you do not want to be filled."
+msgstr ""
+
+#: includes/visualcomposer/dt-ourteam.php:224
+#@ dewitech
+msgid "Twitter"
+msgstr ""
+
+#: includes/visualcomposer/dt-ourteam.php:227
+#@ dewitech
+msgid "Set the twitter profile link. Leave it blank if you do not want to be filled."
+msgstr ""
+
+#: includes/visualcomposer/dt-ourteam.php:231
+#@ dewitech
+msgid "Linkedin"
+msgstr ""
+
+#: includes/visualcomposer/dt-ourteam.php:234
+#@ dewitech
+msgid "Set the linkedin profile link. Leave it blank if you do not want to be filled."
+msgstr ""
+
+#: includes/visualcomposer/dt-portfolio.php:83
+#@ dewitech
+msgid "DT Portfolio"
+msgstr ""
+
+#: includes/visualcomposer/dt-portfolio.php:96
+#@ dewitech
+msgid "9"
+msgstr ""
+
+#: includes/visualcomposer/dt-pricingtable.php:69
+#@ dewitech
+msgid "DT Pricing Table"
+msgstr ""
+
+#: includes/visualcomposer/dt-pricingtable.php:85
+#@ dewitech
+msgid "Price"
+msgstr ""
+
+#: includes/visualcomposer/dt-pricingtable.php:88
+#@ dewitech
+msgid "Set the price."
+msgstr ""
+
+#: includes/visualcomposer/dt-pricingtable.php:94
+#@ dewitech
+msgid "ORDER NOW"
+msgstr ""
+
+#: includes/visualcomposer/dt-pricingtable.php:95
+#@ dewitech
+msgid "Set the button text."
+msgstr ""
+
+#: includes/visualcomposer/dt-pricingtable.php:102
+#@ dewitech
+msgid "Set the link for button."
+msgstr ""
+
+#: includes/visualcomposer/dt-pricingtable.php:106
+#@ dewitech
+msgid "Tag"
+msgstr ""
+
+#: includes/visualcomposer/dt-pricingtable.php:108
+#@ dewitech
+msgid "RECOMMENDED"
+msgstr ""
+
+#: includes/visualcomposer/dt-pricingtable.php:109
+#@ dewitech
+msgid "Set the tag."
+msgstr ""
+
+#: includes/visualcomposer/dt-pricingtable.php:113
+#@ dewitech
+msgid "Detail 1"
+msgstr ""
+
+#: includes/visualcomposer/dt-pricingtable.php:116
+#@ dewitech
+msgid "Set the detail 1."
+msgstr ""
+
+#: includes/visualcomposer/dt-pricingtable.php:120
+#@ dewitech
+msgid "Detail 2"
+msgstr ""
+
+#: includes/visualcomposer/dt-pricingtable.php:123
+#@ dewitech
+msgid "Set the detail 2."
+msgstr ""
+
+#: includes/visualcomposer/dt-pricingtable.php:127
+#@ dewitech
+msgid "Detail 3"
+msgstr ""
+
+#: includes/visualcomposer/dt-pricingtable.php:130
+#@ dewitech
+msgid "Set the detail 3."
+msgstr ""
+
+#: includes/visualcomposer/dt-pricingtable.php:134
+#@ dewitech
+msgid "Detail 4"
+msgstr ""
+
+#: includes/visualcomposer/dt-pricingtable.php:137
+#@ dewitech
+msgid "Set the detail 4."
+msgstr ""
+
+#: includes/visualcomposer/dt-pricingtable.php:141
+#@ dewitech
+msgid "Detail 5"
+msgstr ""
+
+#: includes/visualcomposer/dt-pricingtable.php:144
+#@ dewitech
+msgid "Set the detail 5."
+msgstr ""
+
+#: includes/visualcomposer/dt-quoteslider.php:69
+#@ dewitech
+msgid "DT Quote"
+msgstr ""
+
+#: includes/visualcomposer/dt-quoteslider.php:86
+#@ dewitech
+msgid "DT Quote Item"
+msgstr ""
+
+#: includes/visualcomposer/dt-quoteslider.php:101
+#@ dewitech
+msgid "Set the Name."
+msgstr ""
+
+#: includes/visualcomposer/dt-quoteslider.php:105
+#@ dewitech
+msgid "Position"
+msgstr ""
+
+#: includes/visualcomposer/dt-quoteslider.php:119
+#@ dewitech
+msgid "img"
+msgstr ""
+
+#: includes/visualcomposer/dt-tabimageslider.php:77
+#@ dewitech
+msgid "DT Tab Image Slider Container"
+msgstr ""
+
+#: includes/visualcomposer/dt-tabimageslider.php:93
+#@ dewitech
+msgid "DT Tab Item Image Slider "
+msgstr ""
+
+#: includes/visualcomposer/dt-tabimageslider.php:108
+#@ dewitech
+msgid "Set the icon. Size 90 x 90."
+msgstr ""
+
+#: includes/visualcomposer/dt-tabimageslider.php:112
+#@ dewitech
+msgid "Image Slider"
+msgstr ""
+
+#: includes/visualcomposer/dt-tabimageslider.php:115
+#@ dewitech
+msgid "Set the image. Size 945 x 275."
+msgstr ""
+
+#: includes/visualcomposer/dt-thecontact.php:28
+#@ dewitech
+msgid "DT Contact Feature"
+msgstr ""
+
+#: includes/visualcomposer/dt-thecontact.php:39
+#@ dewitech
+msgid "Top Text"
+msgstr ""
+
+#: includes/visualcomposer/dt-thecontact.php:41
+#@ dewitech
+msgid "Your Text Here"
+msgstr ""
+
+#: includes/visualcomposer/dt-thecontact.php:49
+#@ dewitech
+msgid "Middle Text/Big Text"
+msgstr ""
+
+#: includes/visualcomposer/dt-thecontact.php:59
+#@ dewitech
+msgid "Bottom Text"
+msgstr ""
+
+#: includes/visualcomposer/dt-titlesection.php:26
+#@ dewitech
+msgid "DT Title Section"
+msgstr ""
+
+#: includes/visualcomposer/dt-titlesection2.php:32
+#@ dewitech
+msgid "DT Title Section 2"
+msgstr ""
+
+#: includes/visualcomposer/x23-sliderhome.php:1
+#@ dewitech
+msgid "Dewitech Home Slider"
+msgstr ""
+
+#: search.php:36
+#, php-format
+#@ dewitech
+msgid "Search Results for: %s"
+msgstr ""
+
+#: searchform.php:6
+#@ dewitech
+msgid "Submit"
+msgstr ""
+
+#: single-portfolio.php:55
+#@ dewitech
+msgid "Descriptions Project"
+msgstr ""
+
+#: single-portfolio.php:58
+#@ dewitech
+msgid "Project Details"
+msgstr ""
+
+#: single-portfolio.php:63
+#@ dewitech
+msgid "Launch Project"
+msgstr ""
+
+#: tag.php:22
+#, php-format
+#@ dewitech
+msgid "Tags : %s"
+msgstr ""
+
