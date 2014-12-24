@@ -50,11 +50,12 @@ function dubstrap_setup() {
 	set_post_thumbnail_size( 604, 270, true );
 	
 }
+
+
 add_action( 'after_setup_theme', 'dubstrap_setup' );
 
 /* Disable WordPress Admin Bar for all users. */
-  //show_admin_bar(false);
-
+  show_admin_bar(false);
 
 /* Slightly Modified Options Framework */
 require get_template_directory() . '/admin/index.php';
